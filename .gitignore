@@ -10,9 +10,6 @@ dist_exe/
 
 storage/
 
-.agents/
-.codex/
-
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/

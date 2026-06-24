@@ -20,6 +20,8 @@ O software deve permitir:
 
 ## Arquivos Principais
 
+- `.codex/README.md`: instrucoes especificas para sessoes do Codex neste projeto.
+- `.agents/README.md`: orientacoes para agentes auxiliares ou trabalho delegado.
 - `main.py`: interface Tkinter, fluxo do app, metricas, tabelas, scores, graficos, relatorio PDF e fluxo de validacao completa.
 - `app/signal_processing.py`: leitura/parse de CSV, padronizacao de amostragem, sincronizacao, calculo de escalares, janelas de teste e processamento de sinais.
 - `app/project_models.py`: modelo de dados do projeto de validacao completa.
